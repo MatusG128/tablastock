@@ -1,2 +1,2 @@
-# tablastock
-crepasLaTribu
+# noterminado
+no esta terminado
